@@ -106,7 +106,7 @@
 44. No Useless Constructor: Prevent defining constructors that do nothing.
 45. No Useless Escape: Disallow unnecessary escape characters in strings and regular expressions.
 46. No Useless Return: Avoid unnecessary return statements.
-47. No var Declaration: Disallow the use of var and encourage `
+47. No var Declaration: Disallow the use of var and encourage
 
 
 
