@@ -2,6 +2,11 @@
 
 ## Go to ```Actions``` tab in your repository and be sure that actions was activated. If no enable github actions
 
+### From this
+![Non active workflow](https://github.com/rammfall-code/guidelines/blob/main/images/nonActiveWorkflow.png?raw=true)
+### To this
+![Active workflow](https://github.com/rammfall-code/guidelines/blob/main/images/activeWorkflow.png?raw=true)
+
 ## Clone repository with task to your local machine or use github codespaces
 
 ## The task description located in README.md in every repository
