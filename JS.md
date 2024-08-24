@@ -107,8 +107,3 @@
 45. No Useless Escape: Disallow unnecessary escape characters in strings and regular expressions.
 46. No Useless Return: Avoid unnecessary return statements.
 47. No var Declaration: Disallow the use of var and encourage
-
-
-
-
-
