@@ -1,6 +1,6 @@
 # Guide about git and github
 
-## Go to ```Actions``` tab in your repository and be sure that actions was activated. If no enable github actions
+## Go to ```Actions``` tab in your repository and be sure that actions was activated. If no enable github actions(click green button)
 
 ### From this
 ![Non active workflow](https://github.com/rammfall-code/guidelines/blob/main/images/nonActiveWorkflow.png?raw=true)
